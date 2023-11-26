@@ -53,3 +53,5 @@ career foundr y brief.
 
 ## Ethics:
 As this data is open source I don’t think there is an issue of data ethics.
+
+Tableau Link: https://public.tableau.com/app/profile/gregor.gurski/viz/Data-Immersion-6_7-GG/PreparationforInfluenzaSeason?publish=yes
