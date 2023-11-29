@@ -3,7 +3,7 @@
 # World University Rankings
 
 ## Project Goal:
-Investigate the best universities in the world.Investigate the best universities in the world.
+Investigate the best universities in the world.
 
 ## Motivation:
 Of all the universities in the world, which are the best?
