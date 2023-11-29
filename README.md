@@ -64,10 +64,4 @@ amounted to fewer than 1,000 articles between 2011 and 2015 (and a
 minimum of 150 a year). Universities can also be excluded if 80 per cent or
 more of their activity is exclusively in one of the eight subject areas.
 
-## Relevance:
-I believe this data set meets the necessary requirements for this project as it is
-open source, includes a geospatial component, and meets the size and variable
-requirements. The project is a little older than 3 years old but was found in the
-career foundr y brief.
-
 Tableau Link: https://public.tableau.com/app/profile/gregor.gurski/viz/Data-Immersion-6_7-GG/PreparationforInfluenzaSeason?publish=yes
